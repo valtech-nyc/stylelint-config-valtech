@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-config-valtech",
+  "version": "1.0.0",
+  "description": "Valtech stylelint configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valtech-nyc/stylelint-config-valtech.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "valtech"
+  ],
+  "author": "Valtech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valtech-nyc/stylelint-config-valtech/issues"
+  },
+  "homepage": "https://github.com/valtech-nyc/stylelint-config-valtech#readme"
+}
