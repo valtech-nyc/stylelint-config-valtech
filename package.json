@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/valtech-nyc/stylelint-config-valtech#readme",
   "dependencies": {
-    "stylelint-config-standard": "^16.0.0"
+    "stylelint-config-standard": "^16.0.0",
+    "stylelint-declaration-strict-value": "^1.0.4"
   },
   "peerDependencies": {
     "stylelint": "^7.10.1"
